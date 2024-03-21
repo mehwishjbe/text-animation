@@ -25,4 +25,6 @@ body {
     ) 0 0 no-repeat;
   -webkit-background-size: 150px;
   background-size: 150px;
+  color: rgba(255, 255, 255, 0.1);
+  -webkit-background-clip: text;
 }
