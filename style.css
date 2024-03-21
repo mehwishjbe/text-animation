@@ -14,4 +14,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   font-weight: bold;
+
+  background: #262626 -webkit-gradient(linear, left top, right top, from(#262626), to(#262626), color-stop(0.5, #fff)) 0 0 no-repeat;
+  
 }
