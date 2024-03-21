@@ -7,3 +7,9 @@
 body {
   background: #030303;
 }
+
+.text-wrapper{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
