@@ -29,4 +29,5 @@ body {
   -webkit-background-clip: text;
   font-size: 165px;
   font-family: "Courier New", Courier, monospace;
+  animation: animation 5s infinite;
 }
