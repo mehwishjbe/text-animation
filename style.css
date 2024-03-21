@@ -27,4 +27,6 @@ body {
   background-size: 150px;
   color: rgba(255, 255, 255, 0.1);
   -webkit-background-clip: text;
+  font-size: 165px;
+  font-family: "Courier New", Courier, monospace;
 }
